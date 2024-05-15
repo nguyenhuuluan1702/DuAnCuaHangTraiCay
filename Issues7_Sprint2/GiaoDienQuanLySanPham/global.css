@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-7xl: 1.625rem;
+  --font-size-2xl: 1.313rem;
+  --font-size-16xl: 2.188rem;
+  --font-size-9xl: 1.75rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-forestgreen: #3a973d;
+  --color-lightgreen: #78df7c;
+
+  /* Paddings */
+  --padding-12xl: 1.937rem;
+  --padding-10xs: 0.187rem;
+  --padding-12xs: 0.062rem;
+  --padding-4xs: 0.562rem;
+  --padding-mini: 0.937rem;
+  --padding-6xs: 0.437rem;
+  --padding-7xs: 0.375rem;
+}
